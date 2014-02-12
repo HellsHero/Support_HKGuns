@@ -1,0 +1,30 @@
+Ammo Name		Weapons					IRL counterpart
+
+545 Auto		AN-94, RPK-74M				5.45x39mm
+			
+556 Auto		M16A4, L85A2, L86 LSW, M249, LSAT	5.56x45mm
+			
+9mm Auto		G18					9x19mm Parabellum
+			
+9mm Semi		M9, M93R				9x19mm Parabellum
+			
+6mm Auto		MP7A1, P90				HK 4.6x30mm(MP7) and FN 5.7x28mm(P90)
+			
+762 Sniper		MK14, JNG-90				7.62x51mm
+			
+1270 Sniper (.50)	OSV-96					12.7x108mm (Russian .50 cal, slightly larger than american 12.7×99mm)
+			
+Buckshot		SPAS-12, R870 MCS, XXVIII		12 Gauge
+			
+Slug								12 Gauge
+			
+Explosive Bolt		Crossbow				Bolt
+					
+AT Rocket		AT-4					HEDP 502
+				
+SAM Rocket		FIM-92 Stinger				FIM-92 Rocket
+			
+40mm Grenade		M320					40mm Grenade
+			
+RPG			RPG-7					RPG
+			

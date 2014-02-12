@@ -1,0 +1,3 @@
+Title: H&K Guns Support
+Author: HellsHero, various ref. authors
+Created for H&K weapons, freely distributed for third-party use.

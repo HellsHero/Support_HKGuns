@@ -1,0 +1,27 @@
+Projectile:
+inaccurateProjectile = bool;
+{
+	inaccuracyTime = ms;
+	inaccuracyDiffer = ms;
+	inaccuracyIntervals = ms;
+	inaccuracyIntervalDiffer = ms;  
+	inaccuracyAmptitude = float;
+	inaccuracyOffset = vector;
+	inaccuracyCountExplode = bool;
+	inaccuracyCountLimit = int;
+}
+
+
+
+
+Image:
+
+
+
+
+
+
+Item:
+useHKGuns = bool
+
+

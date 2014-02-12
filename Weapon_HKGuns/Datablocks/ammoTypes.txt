@@ -1,0 +1,99 @@
+ASSAULT RIFLES:							IRL				GAME
+
+- AN-94 [Full-Auto/2 Round Burst] [X] [ ]			5.45x39mm			545 Auto
+
+- M16A4 MWS [3 Round Burst] [Grenade Launcher] [ ] [ ]		5.56x45mm			556 Auto
+
+- MK14 [Semi-Auto] [Laser Sights] [ADS] [ ] [ ]			7.62x51mm			762 Sniper
+	
+- L85A2 [Full-Auto] [Bipod] [X] [ ]				5.56x45mm			556 Auto
+
+COVERT:
+
+HANDGUNS:
+
+- G18 Akimbo [Full-Auto] [Akimbo] [ ] [ ]			10x25mm				9mm Auto
+
+- M9 [Semi-Auto] [Tactical Knife] [X] [ ]			9x19mm Parabellum		9mm Semi
+	
+- M93R [3 Round Burst] [QuickSwap] [ ] [ ]			9x19mm Parabellum		9mm Semi
+
+- XXVIII [Double Action] [Buckshot] [ ] [ ]			12 Gauge			Buckshot
+
+LETHAL:
+
+- C4 [Plantable] [Remote Detonation] [ ] [ ]
+
+- Frag Grenade [Throwable] [Cooking] [ ] [ ]
+
+- M18 Claymore [Plantable] [Proximity] [ ] [ ]
+
+- Semtex [Throwable] [Sticky] [ ] [ ]
+
+LAUNCHERS:
+
+- AT-4 [Single Shot] [Lock-On] [ ] [ ]				HEDP 502 (HE,DualPurpose)	AT Rocket
+
+- FIM-92 Stinger [Single Shot] [Lock-On] [ ] [ ]		FIM-92 Rocket			SAM Rocket
+
+- M320 [Single Shot] [QuickSwap] [Free-Fire] [ ] [ ]		40mm Grenade (HE, Smoke, fire)	40mm HE (40mm Smoke, 40mm Incendiary)
+
+- RPG-7 [Single Shot] [Free-Fire] [ ] [ ]			RPG				RPG
+
+LIGHT MACHINE GUNS:
+
+- L86 LSW [Full-Auto] [Bipod] [ ] [ ]				5.56x45mm			556 Auto
+
+- M249 [Full-Auto] [Bipod] [ ] [ ]				5.56x45mm			556 Auto
+
+- RPK-74M [Full-Auto] [QuickSwap] [ ] [ ]			5.45x39mm			545 Auto
+
+- LSAT [Full-Auto] [Caseless Rounds] [ ] [ ]			5.56mm Caseless			556 Caseless
+
+MELEE:
+
+- Combat Knife [Backstab] [Throwable] [ ] [ ]			
+
+- Machete [Chargeable] [ ] [ ]
+
+- Riot Shield [Plantable] [ ] [ ]
+
+SPECIALS:
+
+- Crossbow [Explosive Bolt] [ ] [ ]				Explosive Bolt			Explosive Bolt
+
+- Flamethrower [Gas] [ ] [ ]					Pressurized Flamable Liquid	Gas
+
+SNIPER RIFLES:
+
+- 
+
+- JNG-90 [Bolt Action] [Laser Sights] [ADS] [ ] [ ]		7.62x51mm			762 Sniper
+
+- OSV-96 [Semi-Auto] [Bipod] [Anti-Materiel] [ ] [ ]	12.7x108mm(rus.50cal slightly bigger)	1270 Sniper (or just .50 Sniper)
+
+-
+
+SHOTGUNS: (One of the shotguns should use slug instead of buckshot)
+
+-
+
+- SPAS-12 [Semi-Auto] [ ] [ ]					12 Gauge			Buckshot
+
+- R870 MCS [Pump Action] [ ] [ ]				12 Gauge			Buckshot
+
+-
+
+SUBMACHINE GUNS:
+
+-
+
+- MP7A1 [Full-Auto] [ ] [ ]					HK 4.6x30mm			6mm Auto (note, these are bigger than 9mm, just thinner)
+
+- P90 [Full-Auto] [ ] [ ]					FN 5.7x28mm			6mm Auto
+
+-
+
+TACTICAL:
+
+UNLOCKS:

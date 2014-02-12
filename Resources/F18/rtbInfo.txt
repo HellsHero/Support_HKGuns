@@ -1,0 +1,5 @@
+id: 4801
+icon: spyglass_16
+type: Vehicles
+title: F-18 Hornet
+version: 2
